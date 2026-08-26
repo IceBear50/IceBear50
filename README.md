@@ -1,4 +1,4 @@
-```markdown
+
 # Gaurav Sudish
 
 `~/gaurav-sudish $ whoami`
@@ -56,13 +56,4 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Languages & Core CS
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-6E40C9?style=flat-square)
-![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=flat-square)
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-6E40C9?style=flat-square)
-![Computer Networks](https://img.shields.io/badge/Computer_Networks-0969DA?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-8250DF?style=flat-square)
-```
