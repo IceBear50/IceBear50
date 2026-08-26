@@ -1,8 +1,6 @@
 
 # Gaurav Sudish
 
-`~/gaurav-sudish $ whoami`
-
 **Computer Science Student** — building AI-powered systems, full-stack applications, and productivity tools.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
