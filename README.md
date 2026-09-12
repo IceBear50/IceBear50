@@ -1,5 +1,5 @@
 
-# Gaurav Sudish
+# Gaurav S
 
 **Computer Science Student** — building AI-powered systems, full-stack applications, and productivity tools.
 
@@ -21,7 +21,6 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-sudish-a491722b8/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/TheLastConqueror/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dsidious50@gmail.com)
 
